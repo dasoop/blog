@@ -4,10 +4,12 @@ date: 2019-1-27 16:21:13
 lang: 'en'
 ---
 
-# Your name
+# 다숲 , 사회적 기업
 
 <div align="center">
 
-_Thank you for reading my resume. If you want to contact me, Please send me an email._
+우리 회사는 2012년 자연에서 ‘뛰어놀며 배움을 얻는다’는 교육 철학을 가진 소규모 산림복지 전문 기업입니다.
+부모 모임으로 시작하여 발현주의 자연학교 운영, 유아숲체험원, 숲해설 프로그램 위탁운영 등으로 발전했습니다.
+이제는 사회적 기업으로까지 나아가고 있습니다.
 
 </div>
