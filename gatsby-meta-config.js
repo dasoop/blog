@@ -3,7 +3,7 @@ module.exports = {
   description: `사회적 기업, 다숲 블로그 입니다.`,
   author: `다숲 Blog`,
   introduction: `사회적 기업, 다숲 블로그 입니다.`,
-  siteUrl: `http:localhost:8080`, // Your blog site url
+  siteUrl: `https://dasoop.netlify.app`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: ``, // Your GitHub account
