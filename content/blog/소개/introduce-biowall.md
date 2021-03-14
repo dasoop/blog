@@ -5,6 +5,8 @@ category: '소개'
 draft: false
 ---
 
+![](./images/bioD.PNG)
+
 ## 우리의 공간은 어떤가요?
 
 미세먼지, 각종 전자파, 생활 소음, 실내 유해 화학물질
